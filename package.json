@@ -21,6 +21,13 @@
         "!dist/**/*.test.*",
         "!dist/**/*.spec.*"
     ],
+    "keywords": [
+        "Svelte",
+        "Library"
+    ],
+    "publishConfig": {
+        "access": "public"
+    },
     "peerDependencies": {
         "svelte": "^5.0.0-next.81"
     },
